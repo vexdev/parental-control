@@ -1,0 +1,4 @@
+# Filters content when the screen time is off
+
+# Let's start by filtering all...
+/.*/$ctag=user_child
